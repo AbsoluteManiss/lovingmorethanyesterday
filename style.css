@@ -58,14 +58,7 @@ p {
   color: #000000;
 
 }
-.blur{
-  font-family: Arial, sans-serif;
-  font-style: italic;
-  font-size: 18px;
-  margin-top: 20px;
-  color: #000000;
-  filter: blur(3px);
-}
+
 a {
   text-decoration: none;
   color: #ff0000;
